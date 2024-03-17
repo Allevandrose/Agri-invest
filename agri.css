@@ -1,6 +1,6 @@
 body{
     background-color: #0f0f0f;
-    margin: 0;
+    margin: 0px;
 }
 nav{
     background-color: black;
@@ -26,27 +26,36 @@ nav{
     padding: 20px;
 }
 .nav2 a:hover{
-    color: green;
+    color: rgb(17, 235, 17);
 }
 /* end of navbar */
 
 /* header */
 .section1{
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-evenly;
+    margin: 40px;
 }
 .icard1{
-    position:relative;
-    width: 40%;
+   width: 380px;
+   height: 350px;
 }
 .card1{
-    width:40%;
-    height:fit-content;
+    width:380px;
+    height: 350px;
     border:10px;
+    margin-bottom: 10px;
+    
+}
+.icard2{
+    width: 380px;
+    height: 350px;
 }
 .card2{
-    width:40%;
-    height:fit-content;
+    width:380px;
+    height:350px;
     border:10px;
+
 }

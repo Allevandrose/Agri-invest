@@ -45,7 +45,7 @@ nav{
     justify-content: space-evenly;
     flex-wrap: wrap;
     align-items: center;
-    margin: 20px;
+    /* margin: 20px; */
 }
 .icard1{
    width: 200px;

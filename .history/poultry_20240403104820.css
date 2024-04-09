@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(247, 243, 239);
+}
+
+.h1 {
+    color: green;
+}
+
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}

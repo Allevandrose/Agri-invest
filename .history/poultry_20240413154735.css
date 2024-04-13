@@ -4,7 +4,6 @@ body {
 
 .h1 {
     color: green;
-    margin-top: 60px;
 }
 
 .card-container {
@@ -51,5 +50,5 @@ nav {
 }
 
 .card-container {
-    margin-top: 50px;
+    margin-top: 20px;
 }
